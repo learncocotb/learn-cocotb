@@ -4,3 +4,4 @@ sim_build/
 *.xml
 *stdout*
 .venv/
+.gitignore
