@@ -1,5 +1,5 @@
 module hello;
 initial begin;
-    $display("hello learncocotb.com ayyyyyy");
+    $display("hello learncocotb.com");
 end
 endmodule
